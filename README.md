@@ -1,7 +1,7 @@
 # TRM409 APP MOBILE SCALE
 
-A new Flutter project.
-
+https://www.youtube.com/watch?v=SBaVhcS7tRk&feature=youtu.be
+https://www.youtube.com/watch?v=tuZ9iv-dV0A 
 ## Getting Started
 
 This project is a starting point for a Flutter application.

@@ -1,4 +1,4 @@
-# TRM409 APP MOBILE SCALE
+# TRM409 APP MOBILE SCALE Link Presentasi dan Demo
 
 https://www.youtube.com/watch?v=SBaVhcS7tRk&feature=youtu.be
 
